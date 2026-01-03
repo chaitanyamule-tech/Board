@@ -59,11 +59,3 @@ Live Demo :
 3. Backend integration (MongoDB + API)
 4. User authentication
 5. Mobile drag support
-
-
-
-👨‍💻 Author :
-
-Chaitanya Mule,
-
-Computer Science Engineering Student.
