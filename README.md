@@ -49,6 +49,8 @@ ScreenShots :
 <img width="1919" height="1028" alt="Screenshot 2026-01-03 175613" src="https://github.com/user-attachments/assets/5fe8e809-95f0-418c-991c-e609786f8bc5" />
 <img width="1919" height="1023" alt="Screenshot 2026-01-03 175657" src="https://github.com/user-attachments/assets/caffddda-8305-474d-9e6c-86befb3a2149" />
 
+Live Demo :
+(https://kanban-task-board-git-main-chaitanyamule-techs-projects.vercel.app)
 
 🔮 Future Improvements :-
 
@@ -57,6 +59,8 @@ ScreenShots :
 3. Backend integration (MongoDB + API)
 4. User authentication
 5. Mobile drag support
+
+
 
 👨‍💻 Author :
 
